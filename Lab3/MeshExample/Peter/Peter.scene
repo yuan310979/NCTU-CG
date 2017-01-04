@@ -1,4 +1,0 @@
-single-texture face.bmp
-model sphere.obj 5.0 5.0 5.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0
-no-texture
-model scalp.obj 5.0 5.0 5.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0
